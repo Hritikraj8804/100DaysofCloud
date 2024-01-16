@@ -39,6 +39,8 @@ Happy cloud learning! 🚀☁️
 ## Getting Started
 # 100 Days of Cloud Series Schedule
 
+**[Dad 1: Repo Setup](/journary/day001/Readme.md)
+
 ## Azure Fundamentals (Day 2-18) 
 
 **Day 2: Azure Budgets and Cost Management** <ComingSoon>
