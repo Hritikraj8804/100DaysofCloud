@@ -8,4 +8,4 @@ all I did was copy the 100DaysOfCLoud journey template and setup my own GitHub r
 [twitter](https://twitter.com/HritikR36858585/status/1747240463789379827)
 
 
-[Dev]()
+[Dev](https://dev.to/hritikraj8804/100-days-of-cloud-4b21)
